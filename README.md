@@ -7,3 +7,8 @@
 
 1. https://jsfiddle.net/mt6L5yhw/2/
 2. https://jsfiddle.net/x86wcjaz/
+
+## Дз к уроку 3
+
+1. https://github.com/AdukarIT/KleshchenkoKV/tree/master/servis
+2. https://github.com/AdukarIT/KleshchenkoKV/tree/master/shop
