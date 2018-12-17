@@ -12,3 +12,8 @@
 
 1. https://github.com/AdukarIT/KleshchenkoKV/tree/master/servis
 2. https://github.com/AdukarIT/KleshchenkoKV/tree/master/shop
+
+## Дз к уроку 5
+
+1. https://github.com/AdukarIT/KleshchenkoKV/tree/master/instagram
+2. https://github.com/AdukarIT/KleshchenkoKV/tree/master/learnthelanguage
